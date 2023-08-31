@@ -1,6 +1,2 @@
-# Pattern Recognition
-
-## Course: Applied Machine Learning 
-## Class: CECS 550, Section 2
-## Student:  Norine NDOUDI
-## Semester: Fall 2023
+# Pattern Recognition CECS 550, Section 2 Fall Semester 2023
+#### Student:  Norine NDOUDI  
